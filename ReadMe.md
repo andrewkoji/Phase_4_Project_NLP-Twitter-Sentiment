@@ -133,6 +133,8 @@ Text is prepped and stored in the directory to be sent to another notebook in th
 ![](./images/WordCloud_negative.png)
 # Positive Wordcloud Display
 ![](./images/WordCloud_positive.png)
+# Neutral Wordcloud Display
+![](./images/WordCloud_neutral.png)
 
 ## Model Selection and Evaluation
 The distribution of the target column influences the choice of evaluation metrics and the selection of an appropriate model. Understanding the distribution allows for better evaluation and comparison of different models, as well as assessing their effectiveness in capturing the desired sentiment patterns.

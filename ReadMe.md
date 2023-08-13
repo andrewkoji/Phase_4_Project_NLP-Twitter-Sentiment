@@ -220,7 +220,7 @@ After many iterations, the Multinomial Bayes model has proved to be the best mod
 
 - When finding a model for predicting the sentiment of a tweet, the multinomial bayes using gridsearch cross validation showed the best recall for learning how to maximize false negatives. 
 
-- The random forest model performed at a 66% accuracy
+- The gridsearch model performed at a 66% accuracy
 
 - For class 0 (positive), a recall of 0.63 indicates that the classifier correctly identified 63% of the actual positive instances. In other words, 63% of the tweets that were positive were correctly classified as positive.
 
